@@ -125,7 +125,7 @@ This project has been contributed to by:
 
 - Menna Hassan [Github](https://github.com/MennatAllahhxx) | [LinkedIn](https://linkedin.com/in/MennatAllahhxx)
 - Mohamed Raafat
-- Muhammad Ibrahim
+- Muhammad Ibrahim [Github](https://github.com/Muhammadibra40) | [LinkedIn](https://linkedin.com/in/muhammad-ibrahim-093293218)
 - Nouran Ahmed
 - Ziad Bahaa
 
