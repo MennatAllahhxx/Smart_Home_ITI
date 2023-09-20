@@ -123,10 +123,10 @@ To effectively use the ITI Smart Home Project, follow these steps:
 
 This project has been contributed to by:
 
-- Menna Hassan [Github](https://github.com/MennatAllahhxx) | [LinkedIn](https://linkedin.com/in/MennatAllahhxx)
+- Menna Hassan [GitHub](https://github.com/MennatAllahhxx) | [LinkedIn](https://linkedin.com/in/MennatAllahhxx)
 - Mohamed Raafat
-- Muhammad Ibrahim [Github](https://github.com/Muhammadibra40) | [LinkedIn](https://linkedin.com/in/muhammad-ibrahim-093293218)
-- Nouran Ahmed
+- Muhammad Ibrahim [GitHub](https://github.com/Muhammadibra40) | [LinkedIn](https://linkedin.com/in/muhammad-ibrahim-093293218)
+- Nouran Ahmed [LinkedIn](https://www.linkedin.com/in/nouran-darwish-245a85203)
 - Ziad Bahaa
 
 We welcome contributions from the community, including bug reports, feature requests, and pull requests. Feel free to get involved and help improve the project!
